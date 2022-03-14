@@ -47,8 +47,6 @@ const App = () => {
       }
     ]
   }
-  
-  const exercises = [10, 7, 14]
   return (
     <div>
       <Header course={course} />
