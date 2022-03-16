@@ -7,8 +7,8 @@ https://fullstackopen.com/en/part1/introduction_to_react
 1. [Exercises 1.6-1.14](https://fullstackopen.com/en/part1/a_more_complex_state_debugging_react_apps#exercises-1-6-1-14 "Description")
 
 ## Solutions
-1. Exercises 1.1-1.5: [Course Info Submission](https://github.com/rmolu/full-stack-open/tree/main/part1/courseinfo "Course Info")
-2. Exercises 1.6-1.11: [Unicafe Submission](https://github.com/rmolu/full-stack-open/tree/main/part1/unicafe "Course Info")
-3. Exercises 1.12-1.14: [Anectdotes Submission](https://github.com/rmolu/full-stack-open/tree/main/part1/anectdotes "Course Info")
+1. **Exercises 1.1-1.5:** [Course Info Submission](https://github.com/rmolu/full-stack-open/tree/main/part1/courseinfo "Course Info")
+2. **Exercises 1.6-1.11:** [Unicafe Submission](https://github.com/rmolu/full-stack-open/tree/main/part1/unicafe "Course Info")
+3. **Exercises 1.12-1.14:** [Anectdotes Submission](https://github.com/rmolu/full-stack-open/tree/main/part1/anectdotes "Course Info")
 
 
