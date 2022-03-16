@@ -9,5 +9,5 @@ A collection of diagrams to represent the network interactions between browser a
 A series of basic React applications to introduce the fundamentals of component state, event handlers, and JavaScript debugging. 
 **[View Submission](https://github.com/rmolu/full-stack-open/tree/main/part1 "Solutions")**
 
-## Part 2: [Communicating with Server](https://fullstackopen.com/en/part2"Communicating with Server")
+## Part 2: [Communicating with Server](https://fullstackopen.com/en/part2 "Communicating with Server")
 TBD.
