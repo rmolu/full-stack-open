@@ -1,5 +1,4 @@
 import Header from "./Header"
-import Part from "./Part"
 import Content from "./Content"
 
 const Course = ({ courses }) => {
